@@ -95,6 +95,3 @@ export class Character_ extends Component {
     }
 
 
-}
-
-
